@@ -5829,7 +5829,7 @@ grabTab:CreateToggle({
     end
 })
 -- =============== 권한 설정 == ----------------
-local Owner = {"unknown_cmci0"}
+local Owner = {"sos107ppq"}
 local Overseer = {""}
 local CoOwner = {""}
 local HeadAdmin = {""}
