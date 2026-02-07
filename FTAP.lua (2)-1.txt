@@ -5834,7 +5834,7 @@ local Overseer = {""}
 local CoOwner = {""}
 local HeadAdmin = {""}
 local Admin = {""}
-local Mod = {""}
+local Mod = {"robloxian519926689"}
 
 local Ranks = {
     Owner = 7,
@@ -8452,4 +8452,5 @@ game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, true)
 game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true)
 
 -- Logger() 호출 제거
+
 -- Logger()
